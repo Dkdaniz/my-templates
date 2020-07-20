@@ -1,0 +1,9 @@
+*/.idea/
+
+*/node_modules/
+*/build/
+
+*/temp/*
+!*/temp/.gitkeep
+
+.DS_Store
